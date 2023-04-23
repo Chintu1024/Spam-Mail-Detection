@@ -54,4 +54,3 @@ if st.button('Predict'):
     st.header("Spam")
   else:
     st.header("Not Spam")
-
